@@ -1,0 +1,18 @@
+body{
+  padding:30px;
+}
+
+.thumbnail{
+  border-radius:0;
+}
+
+div{
+  padding:10px;
+}
+.bg-4 { 
+    background-color: #fff;
+    color: #000;
+}
+p {
+    font-size: 17px;
+}
